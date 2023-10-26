@@ -8,7 +8,7 @@ These are my first steps on GitHub.:+1:
 ## Hobbies
 Football:soccer:
 
-Discgolf
+Discgolf:golf:
 
 swim:swimmer:
 
