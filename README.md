@@ -6,8 +6,8 @@
 </picture>
 
 
-| Rank | THING-TO-RANK |
+| Rank | Languages|
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1|  Javascript   |
+|     2|     Html      |
+|     3|     Css       |
