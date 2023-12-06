@@ -4,7 +4,7 @@
 
 Hi, I´m Benny
 
-These are my first steps on GitHub.:+1:
+These are my first steps on GitHub. :+1:
 
 ## Hobbies
 - Football :soccer:
