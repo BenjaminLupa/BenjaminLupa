@@ -14,4 +14,4 @@ My goal is to work as a __Frontend developer__ in the future.
 
 - swim :swimmer:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benny]_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benny)](https://github.com/anuraghazra/github-readme-stats)
