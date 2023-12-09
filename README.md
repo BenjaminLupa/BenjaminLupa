@@ -14,4 +14,4 @@ My goal is to work as a __Frontend developer__ in the future.
 
 - swim :swimmer:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminLupa)](https://github.com/BenjaminLupa/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminLupa&show_icons=true)](https://github.com/BenjaminLupa/github-readme-stats&show_icons=true)
