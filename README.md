@@ -2,9 +2,10 @@
 
 ## About me
 
-Hi, I´m Benny
+Hi, I´m Benjamin
 
-These are my first steps on GitHub. :+1:
+Since October 26th, 2023 I have been attending a boot camp to become a frontend developer. I am completing the bootcamp at **Coding Bootcamp Europe**.
+My goal is to work as a __Frontend developer__ in the future.
 
 ## Hobbies
 - Football :soccer:
