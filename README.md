@@ -16,4 +16,4 @@ My goal is to work as a __Frontend developer__ in the future.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminLupa&show_icons=true&theme=tokyonight)](https://github.com/BenjaminLupa/github-readme-stats&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminLupa)](https://github.com/BenjaminLupa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminLupa&layout=compact)](https://github.com/BenjaminLupa/github-readme-stats&layout=compact)
