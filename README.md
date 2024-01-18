@@ -1,8 +1,6 @@
-### Hi there :stuck_out_tongue:
+### Hi there I´m Benjamin :stuck_out_tongue:
 
 ## About me
-
-Hi, I´m Benjamin
 
 Since October 26th, 2023 I have been attending a boot camp to become a frontend developer. I am completing the bootcamp at **Coding Bootcamp Europe**.
 My goal is to work as a __Frontend developer__ in the future.
