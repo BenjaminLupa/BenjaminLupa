@@ -1,4 +1,4 @@
-### Hi there I´m Benjamin 👋
+### Hey there I´m Benjamin 👋
 
 ## About me
 
