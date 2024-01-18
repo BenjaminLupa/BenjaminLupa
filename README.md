@@ -13,7 +13,7 @@ My goal is to work as a __Frontend developer__ in the future.
 - swim :swimmer:
 
 ## Stats
+<img align="left" width="47%" height="400px" src="https://github-readme-stats.vercel.app/api?username=BenjaminLupa&show_icons=true&theme=merko" />
+<img align="left" width="47%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminLupa" />
 
-<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=BenjaminLupa&show_icons=true&theme=tokyonight"/>
 
-<img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminLupa&layout=compact"/>
